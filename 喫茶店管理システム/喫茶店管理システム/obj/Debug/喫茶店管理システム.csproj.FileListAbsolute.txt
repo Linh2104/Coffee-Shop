@@ -1,0 +1,66 @@
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\喫茶店管理システム.exe.config
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\喫茶店管理システム.exe
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\喫茶店管理システム.pdb
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Guna.UI2.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.Properties.Resources.resources
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.csproj.GenerateResource.cache
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.csproj.CoreCompileInputs.cache
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.csproj.CopyComplete
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.exe
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.pdb
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Componet For Coffee Shop.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Componet For Coffee Shop.pdb
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.csprojAssemblyReference.cache
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.LoginForm.resources
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.MainForm.resources
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\EasyTabs.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Svg.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Dwmapi.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Gdi32.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Kernel32.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.User32.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Uxtheme.dll
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\EasyTabs.xml
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Svg.pdb
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Svg.xml
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Dwmapi.pdb
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Gdi32.pdb
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Gdi32.xml
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Kernel32.pdb
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.User32.pdb
+E:\app sdung trong syll\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Uxtheme.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\喫茶店管理システム.exe.config
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\喫茶店管理システム.exe
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\喫茶店管理システム.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Componet For Coffee Shop.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\EasyTabs.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Guna.UI2.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Svg.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Dwmapi.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Gdi32.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Kernel32.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.User32.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Uxtheme.dll
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Componet For Coffee Shop.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\EasyTabs.xml
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Svg.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Svg.xml
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Dwmapi.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Gdi32.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Gdi32.xml
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Kernel32.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.User32.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\bin\Debug\Win32Interop.Uxtheme.pdb
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.csprojAssemblyReference.cache
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.LoginForm.resources
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.MainForm.resources
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.Properties.Resources.resources
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.csproj.GenerateResource.cache
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.csproj.CoreCompileInputs.cache
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.csproj.CopyComplete
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.exe
+E:\app sdung trong syll\Coffe Shop\trunk\喫茶店管理システム\喫茶店管理システム\obj\Debug\喫茶店管理システム.pdb

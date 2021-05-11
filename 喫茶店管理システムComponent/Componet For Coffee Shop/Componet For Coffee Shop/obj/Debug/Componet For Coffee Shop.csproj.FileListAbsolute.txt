@@ -1,0 +1,6 @@
+E:\app sdung trong syll\喫茶店管理システムComponent\Componet For Coffee Shop\Componet For Coffee Shop\bin\Debug\Componet For Coffee Shop.dll
+E:\app sdung trong syll\喫茶店管理システムComponent\Componet For Coffee Shop\Componet For Coffee Shop\bin\Debug\Componet For Coffee Shop.pdb
+E:\app sdung trong syll\喫茶店管理システムComponent\Componet For Coffee Shop\Componet For Coffee Shop\obj\Debug\Componet For Coffee Shop.csproj.CoreCompileInputs.cache
+E:\app sdung trong syll\喫茶店管理システムComponent\Componet For Coffee Shop\Componet For Coffee Shop\obj\Debug\Componet For Coffee Shop.dll
+E:\app sdung trong syll\喫茶店管理システムComponent\Componet For Coffee Shop\Componet For Coffee Shop\obj\Debug\Componet For Coffee Shop.pdb
+E:\app sdung trong syll\喫茶店管理システムComponent\Componet For Coffee Shop\Componet For Coffee Shop\obj\Debug\Componet For Coffee Shop.csprojAssemblyReference.cache
